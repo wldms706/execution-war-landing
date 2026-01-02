@@ -11,13 +11,13 @@ export default function FinalCTASection() {
             필요 없습니다
           </h2>
           <p className="text-xl md:text-2xl text-muted">
-            지금 실행할 사람만 오세요
+            실행할 준비가 된 사람만 오세요
           </p>
         </div>
 
         <div className="pt-8">
           <CTAButton className="text-xl px-12 py-6">
-            실행전쟁 1기 신청하기
+            실행전쟁 신청하기
           </CTAButton>
         </div>
 

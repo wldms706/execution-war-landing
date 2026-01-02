@@ -16,7 +16,7 @@ export default function HeroSection() {
           <p className="text-foreground font-semibold">그래서 결국 안 하게 되잖아요.</p>
         </div>
 
-        <CTAButton>실행전쟁 1기 참여하기</CTAButton>
+        <CTAButton>실행전쟁 참여하기</CTAButton>
       </div>
     </section>
   );

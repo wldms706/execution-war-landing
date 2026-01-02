@@ -6,7 +6,7 @@ export default function TurningPointSection() {
       <div className="space-y-12 text-center">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
           그래서 만들었습니다.<br />
-          <span className="text-accent">4주 다마고치 프로그램</span>
+          <span className="text-accent">4주 실행 시스템</span>
         </h2>
 
         <div className="space-y-6 text-lg md:text-xl text-muted leading-relaxed max-w-2xl mx-auto">
